@@ -1,5 +1,5 @@
 ## 项目简介
-本项目基于[https://github.com/hanan198501/vue-spa-template](https://github.com/hanan198501/vue-spa-template)更改而成，以便更加实用自身项目需求。
+本项目基于[https://github.com/hanan198501/vue-spa-template](https://github.com/hanan198501/vue-spa-template)更改而成，以便更加适用自身项目需求。
 
 基于 vue.js 的前端开发环境，用于前后端分离后的单页应用开发，可以在开发时使用 ES2015、scss 等最新语言特性。项目包含：
 
